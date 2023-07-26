@@ -1,0 +1,25 @@
+{
+    "news":[
+        {
+            "id": 1,
+            "title": "Telomoyo Buka Lagi",
+            "desc": "Setelah libur panjang lebaran, Angkringan Telomoyo aktif lagi",
+            "image": "angkringan.jpg",
+            "link": "news1"
+        },
+         {
+            "id": 2,
+            "title": "Baswara Punya Menu Baru!",
+            "desc": "Semakin aktif, Kedai Baswara memunculkan menu barunya",
+            "image":"coffee-beans.jpg",
+             "link": "news2"
+        },
+         {
+            "id": 3,
+            "title": "Nogpi Gelar Gigs",
+            "desc": "Sukses dengan gigs pertama, Nogpi Huis siap gelar gigs berikutnya",
+            "image": "gigs.jpg",
+             "link": "news3"
+        }
+    ]
+}
